@@ -2,7 +2,7 @@
   "name": "lyricfinder_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://christopherbeards.github.io/lyricfinder",
+  "homepage": "https://christopherbeards.github.io/lyricfinder/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^1.2.0",
